@@ -1,10 +1,11 @@
 package config
 
 import (
-	. "gopkg.in/check.v1"
-	"nos-golang-sdk/logger"
-	"nos-golang-sdk/noserror"
 	"testing"
+
+	"github.com/Hellysonrp/nos-golang-sdk/logger"
+	"github.com/Hellysonrp/nos-golang-sdk/noserror"
+	. "gopkg.in/check.v1"
 )
 
 func Test(t *testing.T) { TestingT(t) }

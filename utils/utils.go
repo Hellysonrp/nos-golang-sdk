@@ -3,9 +3,9 @@ package utils
 import (
 	"encoding/json"
 	"encoding/xml"
-	"github.com/NetEase-Object-Storage/nos-golang-sdk/model"
-	"github.com/NetEase-Object-Storage/nos-golang-sdk/nosconst"
-	"github.com/NetEase-Object-Storage/nos-golang-sdk/noserror"
+	"github.com/Hellysonrp/nos-golang-sdk/model"
+	"github.com/Hellysonrp/nos-golang-sdk/nosconst"
+	"github.com/Hellysonrp/nos-golang-sdk/noserror"
 	"io"
 	"io/ioutil"
 	"net/http"
